@@ -6,7 +6,7 @@ Kami tidak mengumpulkan informasi pribadi tentang pengunjung situs web kami kecu
 
 ## Penggunaan Informasi
 
-Informasi yang dikumpulkan akan digunakan sesuai dengan tujuan yang telah dijelaskan pada saat pengumpulan. Informasi pribadi yang Anda berikan kepada kami hanya akan digunakan untuk tujuan yang relevan dengan interaksi Anda dengan kami.
+Informasi yang dikumpulkan akan digunakan sesuai dengan tujuan yang telah dijelaskan pada saat pengumpulan. Informasi pribadi yang Anda berikan kepada kami hanya akan digunakan untuk tujuan yang relevan dengan interaksi Anda dengan kami. itu hanya terjadi di google form yang di luar aplikasi
 
 ## Keamanan
 
